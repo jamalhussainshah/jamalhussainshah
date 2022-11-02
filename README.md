@@ -40,6 +40,28 @@
 
 * Developed and evaluated technology policies, technical engineering standards and operational procedures in line with ISO 27001, 27017, 27018, and IEC 62443
 * Hands-on skills with Wazuh (SIEM and FIM), Nessus (Vulnerability management), Open Audit (Assetmanagement), NGINX (Web application Firewall), Metasploit, security onion and OSSEC tools.
+
+
+#### Professional Education & Trainings:
+
+* CISSP (Prep Completed Exam Schedule December 2022)
+* ISO Lead Implementer & Auditor 27001,27002,27017,27018
+* CIS Top 20 Controls Implementation
+* SIEM a Hands-On Approach In Line With Various Frameworks and Standards
+* Ethical Hacking & Incident Response Management
+* SCADA / ICS Security & Prevention & Detection
+* Vulnerability Assessment In Line With Various Frameworks and Standards
+* Web Application Pentesting& Ethical Hacking in line with various frameworks
+* Network Pentesting and Ethical Hacking in line with various frameworks
+* Machine Learning-Supervised & Unsupervised
+* Linux RHEL Intensive Boot Camp
+* Programing in Python
+* Programing in R
+* Data Collection & Data Wrangling
+* Exploratory Data Analysis
+* Computer Networking & Hardware Solutions
+
+NOTE: ALL CERTIFICATION DETAILS CAN BE FOUND ON MY LINKEDIN ACCOUNT WWW.linkedin.com/in/jamalhussainshah
  
 - 📫 How to reach me jamalhoseinshah@gmail.com
 
