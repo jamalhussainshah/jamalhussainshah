@@ -34,7 +34,7 @@
 
 * Building and developing long term relationships with all stakeholders internally and with clients.
 
-*Extensive knowledge and experience (designing, commissioning, or maintaining) ICS systems e.g.,SCADA, SIS, EMS, DCS or PLC. Experience in supporting or troubleshooting industrial protocols such as Ethernet/IP, OPC, Modbus, Profinet, HART, FF etc.
+* Extensive knowledge and experience (designing, commissioning, or maintaining) ICS systems e.g.,SCADA, SIS, EMS, DCS or PLC. Experience in supporting or troubleshooting industrial protocols such as Ethernet/IP, OPC, Modbus, Profinet, HART, FF etc.
 
 * Strong experience in designing and configuring network security devices like next generation/OT firewalls of popular vendors, IDS, IPS etc. and endpoint security solutions apt for OT environments
 
