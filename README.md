@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jamal hussain shah
+- 👋 Hi, I’m jamal hussain shah
  
 - 🌱 Experience as a Cyber Security Consultant
 
